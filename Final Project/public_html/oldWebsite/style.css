@@ -1,0 +1,195 @@
+body 
+{
+    color: #444444;
+    font-family: Century Gothic, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+div
+{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    overflow: auto;
+}
+
+.half
+{
+    width: 50%;
+    float: left;
+    padding-right: 5%;
+}
+
+.last
+{
+    padding-right: none;
+}
+
+.cover 
+{
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+    padding-top:5 50px;
+}
+
+.main 
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left
+{
+    width: 70%;
+    min-height: 900px;
+    text-align: center;
+    color: #FFFFFF;
+    float: left;
+    background: url('backgroundyeah.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+
+.left image
+{
+    margin-top: 180px;
+}
+
+.left h1
+{
+    font-size: 64px;
+}
+
+.cover
+{
+    width: 100%;
+    height: 100%;
+    min-height: 900px;
+    background: rgba( 0,0,0,0.5);
+}
+
+.page_header
+{
+    width: 100%;
+    height: 140px;
+    padding: 40px;
+    border-bottom: 1px solid #333;
+    background: url('backgroundyeah.jpg');
+    background-size: cover;
+    background-position:center;
+    -webkit-box-shadow:inset -50px 0 100px 5px rgba(0,0,0,0.5);
+    box-shadow:inset -50px 0 100px 5px rgba(0,0,0,0.5);    
+}
+
+.page_body
+{
+    width: 80%;
+    color: #666666;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.page_body h2
+{
+    padding-bottom: 12px;
+    border-bottom: 1px solid #333333;
+    text-transform: uppercase;
+}
+
+.header_tit
+{
+    font-size: 36px;
+    float: left;
+    text-align: left;
+    color: #FFF;
+    text-shadow: 2px 2px 12px #000000;
+    text-transform: uppercase;
+}
+
+.template
+{
+    background: #FFF;
+    width: 100%;
+    height: 100%;
+    min-height: 900px;
+}
+
+.logo
+{
+    margin-top: 168px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.right
+{
+    width: 30%;
+    min-height: 900px;
+    float: left;
+    background: #151515;
+}
+
+.login
+{
+    width: 100%;
+    color: #777;
+    font-weight: 100;
+    padding-left: 10px;
+    margin-top: 145px;
+}
+
+.login h3
+{
+    padding-left: 12px;
+    text-transform: UPPERCASE;
+}
+
+.name
+{
+    width: 100%;
+}
+
+.login input
+{
+    width: 94%;
+    height: 48px;
+    margin: 3%;
+    padding-left: 12px;
+    background: #090909;
+    color: #999999;
+    border: none;
+}
+
+.button_grey
+{
+    width: 80%;
+    height: 20px;
+    margin: 10%;
+    padding: 20px 0px 35px 0px;
+    float: left;
+    text-align: center;
+    background: #222;
+    text-transform: uppercase;
+    color: #666666;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
+}
+
+.button_blue
+{
+    width: 80%;
+    height: 20px;
+    margin: 10%;
+    padding: 20px 0px 35px 0px;
+    float: right;
+    background: #222;
+    text-align: center;
+    text-transform: uppercase;
+    color: #666666;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
+    box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
+}

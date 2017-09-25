@@ -1,0 +1,23 @@
+Action Type List
+
+1: Login 
+2: Cutomer reservations 
+3: Registration of a User
+4: Employee Editted Their Information
+5: Admin Edditted antoher Employee's Information 
+6: Train Created
+7: Train updated 
+8: Train deleted
+9: Equipment updated
+10: Conductor history updated
+11: Engineer history updated
+
+major tasks: 
+
+Design of the website
+Admins/Employees edditing their info
+Admins Adding creating/edditing trains/equipment
+Admins assigning engineers/conductors to trains
+Log
+Login/ registering users
+Customer searching and reserving equipment cars. 

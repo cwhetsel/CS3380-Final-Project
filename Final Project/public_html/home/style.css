@@ -1,0 +1,192 @@
+body 
+{
+    color: #444444;
+    font-family: Century Gothic, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header {
+	margin-bottom: -20px;
+}
+
+
+#error {
+	margin-top: 50px; 
+	background-color: ##ff8181; 
+	text-align: center
+}
+.navbar-header {
+	color: white;
+}
+a.navbar-brand:hover {
+	text-decoration: none;
+}
+
+.main {
+	padding: 0px;
+	min-height: 900px;
+	color: #FFFFFF;
+    background: url('backgroundyeah.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+.left {
+	width: 100%;
+    height: 100%;
+    min-height: 900px;
+    padding: 0px;
+	margin: 0px;
+	background: rgba( 0,0,0,0.5);
+}
+.logo {
+	text-align: center;
+}
+.logo img {
+	margin-top: 180px;
+}
+.logo h1 {
+	font-size: 64px;
+}
+#about {
+	margin: 280px 20px 0px 20px;
+}
+#about p {
+	font-size: 20px;
+}
+#loginRegisterToggle {
+	width: 20%;
+	height: 100%; 
+	background-color: #00000A;
+	position: fixed;
+	right: 0px; 
+	top: 51px; 
+	text-transform: uppercase;
+}
+/*
+#registerToggle {
+	width: 20%;
+	height: 100%; 
+	background-color: #00000A;
+	position: fixed;
+	right: 0px; 
+	top: 51px; 
+	text-transform: uppercase;
+}
+*/
+.login h3 {
+	font-size: 80px; 
+}
+.register label {
+	font-size: 20px;
+}
+.login label {
+	font-size: 20px; 
+}
+.black {
+  color : black; 
+}
+
+/*
+.cover 
+{
+    width: 100%;
+    height: 100%;
+    min-height: 600px;
+    padding: 0px;
+}
+
+
+.left
+{
+
+    color: #FFFFFF;
+    background: url('backgroundyeah.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+
+
+.left h1
+{
+    font-size: 64px;
+}
+
+.cover
+{
+    width: 100%;
+    height: 100%;
+    min-height: 900px;
+    background: rgba( 0,0,0,0.5);
+}
+
+.page_header
+{
+    width: 100%;
+    height: 140px;
+    padding: 40px;
+    border-bottom: 1px solid #333;
+    background: url('backgroundyeah.jpg');
+    background-size: cover;
+    background-position:center;
+    -webkit-box-shadow:inset -50px 0 100px 5px rgba(0,0,0,0.5);
+    box-shadow:inset -50px 0 100px 5px rgba(0,0,0,0.5);    
+}
+
+.page_body
+{
+    color: #666666;
+    text-align: left;
+}
+
+.page_body h2
+{
+    border-bottom: 1px solid #333333;
+    text-transform: uppercase;
+}
+
+.header_tit
+{
+    font-size: 36px;
+    text-align: left;
+    color: #FFF;
+    text-shadow: 2px 2px 12px #000000;
+    text-transform: uppercase;
+}
+
+.template
+{
+    background: #FFF;
+    min-height: 900px;
+}
+
+.logo
+{
+    margin-top: 168px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+/*
+.right
+{
+    min-height: 900px;
+    background: #151515;
+}
+
+
+
+.login h3
+{
+    text-transform: UPPERCASE;
+}
+
+
+.login input
+{
+    width: 94%;
+    height: 48px;
+    margin: 3%;
+    padding-left: 12px;
+    background: #090909;
+    color: #999999;
+    border: none;
+}
+*/

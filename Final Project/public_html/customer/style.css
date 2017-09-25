@@ -1,0 +1,43 @@
+body 
+{
+    color: #444444;
+    font-family: Century Gothic, sans-serif;
+    margin: 0px;
+    padding: 0px;
+	background: rgba( 0,0,0,0.5); 
+}
+header {
+	margin-bottom: 70px;
+}
+.center {
+	margin: 0 auto;
+	text-align: center; 
+	font-size: 60px; 
+	color: #0a4c0b;
+	
+}
+.success {
+	height: 200px;
+	width: 200px; 
+}
+#loginRegisterToggle {
+	width: 20%;
+	height: 100%; 
+	background-color: #00000A;
+	position: fixed;
+	right: 0px; 
+	top: 51px; 
+	text-transform: uppercase;
+}
+.login h3 {
+	font-size: 80px; 
+}
+.register label {
+	font-size: 20px;
+}
+.login label {
+	font-size: 20px; 
+}
+.black {
+  color : black; 
+}

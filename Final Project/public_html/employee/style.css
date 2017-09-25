@@ -1,0 +1,22 @@
+body 
+{
+    color: #444444;
+    font-family: Century Gothic, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header {
+	margin-bottom: 50px;
+}
+#error {
+	margin-top: 50px; 
+	background-color: #ff8181; 
+	text-align: center
+}
+.navbar-header {
+	color: white;
+}
+a.navbar-brand:hover {
+	text-decoration: none;
+}
+
